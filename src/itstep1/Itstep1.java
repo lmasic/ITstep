@@ -14,8 +14,10 @@ public class Itstep1 {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
-        // TODO code application logic here
+    String[] _args;
+    public void main(String[] args) {
+        _args=args;
+        
     }
     
 }
