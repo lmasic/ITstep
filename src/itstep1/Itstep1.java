@@ -18,6 +18,7 @@ public class Itstep1 {
     public void main(String[] args) {
         _args=args;
         
+        System.out.println(args);
     }
     
 }
