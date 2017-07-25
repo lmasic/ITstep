@@ -19,6 +19,8 @@ public class Itstep1 {
         _args=args;
         
         System.out.println(args);
+        
+        String vilda = "push test";
     }
     
 }
