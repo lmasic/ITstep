@@ -16,7 +16,7 @@ public class Itstep1 {
      */
     String[] _args;
     public void main(String[] args) {
-        _args=args;
+        _args=args;//uložení vstupů do globalní proměnné
         
     }
     
