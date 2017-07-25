@@ -20,7 +20,7 @@ public class Itstep1 {
         
         System.out.println(args+"All your base are belong to us");
         
-        String vilda = "push test";
+        String vilda = "push test";//něco nového
         //ahoj
     }
     
