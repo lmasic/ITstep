@@ -18,7 +18,7 @@ public class Itstep1 {
     public void main(String[] args) {
         _args=args;//uložení vstupů do globalní proměnné
         
-        System.out.println(args);
+        System.out.println(args+"All your base are belong to us");
         
         String vilda = "push test";
     }
