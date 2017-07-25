@@ -18,6 +18,9 @@ public class Itstep1 {
     public void main(String[] args) {
         _args=args;//uložení vstupů do globalní proměnné
         
+        System.out.println(args);
+        
+        String vilda = "push test";
     }
     
 }
