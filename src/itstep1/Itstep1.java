@@ -22,6 +22,7 @@ public class Itstep1 {
         
         String vilda = "push test";//něco nového
         //ahoj
+        int a=1;
     }
     
 }
