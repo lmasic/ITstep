@@ -24,6 +24,7 @@ public class Itstep1 {
         
         String vilda = "push test";//něco nového
         //ahoj
+
         int x=5;
         System.out.println(Integer.toBinaryString(x));
         System.out.println(Integer.toBinaryString(x<<2));
@@ -31,6 +32,8 @@ public class Itstep1 {
         int y=5;
         System.out.println(Integer.toBinaryString(y));
         System.out.println(Integer.toBinaryString(y>>>2));
+
+        int a=1;
     }
     
 }
