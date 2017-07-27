@@ -33,7 +33,9 @@ public class Itstep1 {
         System.out.println(Integer.toBinaryString(y));
         System.out.println(Integer.toBinaryString(y>>>2));
 
-        int a=1;
+        int a=2;
+        System.out.println(Integer.toBinaryString(a));
+        System.out.println(Integer.toBinaryString(a>>2));
     }
     
 }
