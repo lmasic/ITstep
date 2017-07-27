@@ -37,5 +37,5 @@ public class Itstep1 {
         System.out.println(Integer.toBinaryString(a));
         System.out.println(Integer.toBinaryString(a>>2));
     }
-    
+    //funguje merge?
 }
